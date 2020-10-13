@@ -1,0 +1,1 @@
+insert into `home` (`id`,`name`) values (3,'霸王');
