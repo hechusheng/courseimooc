@@ -40,6 +40,10 @@
             <artifactId>spring-boot-devtools</artifactId>
         </dependency>
 
+        <dependency>
+            <groupId>com.example</groupId>
+            <artifactId>server</artifactId>
+        </dependency>
 
     </dependencies>
 

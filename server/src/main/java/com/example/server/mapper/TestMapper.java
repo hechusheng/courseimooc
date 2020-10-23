@@ -1,6 +1,6 @@
-package com.course.server.mapper;
+package com.example.server.mapper;
 
-import com.course.server.domain.Test;
+import com.example.server.domain.Test;
 
 import java.util.List;
 

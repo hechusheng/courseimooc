@@ -1,4 +1,4 @@
-package com.course.server.domain;
+package com.example.server.domain;
 
 public class Test {
 
